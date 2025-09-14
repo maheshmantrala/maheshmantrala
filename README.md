@@ -40,8 +40,8 @@ Currently, I am expanding my skills in **cloud computing (AWS)** and modern fron
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshmantrala&show_icons=true&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=maheshmantrala&theme=dark&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
