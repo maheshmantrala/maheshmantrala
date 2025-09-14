@@ -45,7 +45,7 @@ Currently, I am expanding my skills in **cloud computing (AWS)** and modern fron
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmnatrala&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmantrala&layout=compact&theme=radical"/>
 </p>
 
 ---
