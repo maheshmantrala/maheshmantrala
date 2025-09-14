@@ -16,6 +16,21 @@ Currently, I am expanding my skills in **cloud computing (AWS)** and modern fron
 
 ---
 
+## 🚀 Career Highlights  
+
+- 💼 **Software Developer at Wipro Technologies** (Oct 2024 – Present)  
+  - Built and maintained **full-stack applications** using Spring Boot, Angular, React, and SQL.  
+  - Integrated **ChatGPT API & OpenAI tools** for AI-driven features.  
+  - Worked on **microservices architecture, JWT authentication, and REST API development**.  
+
+- 🛠️ **Projects**  
+  - **Customer Relationship Management System** → Role-based login (Admin/Customer) with JWT Security, Microservices (Customer, Interaction, Authentication), and dynamic dashboards.  
+  - **Hotel Reservation System** → Full booking management system with room availability checks, booking history, and admin dashboard.  
+
+- 🎓 **Certified Java Full Stack Developer** (Great Learning) | **AWS Cloud Practitioner (in progress)**  
+
+---
+
 ## 🛠️ Skills & Technologies  
 
 | **Languages** | **Frontend** | **Backend & Frameworks** | **Databases** | **Tools & Cloud** |
@@ -30,10 +45,10 @@ Currently, I am expanding my skills in **cloud computing (AWS)** and modern fron
 
 ## 📌 Featured Projects  
 
-- 🏨 [Hotel Reservation System](#) — Spring Boot, Angular, MongoDB/MySQL  
-- 🤝 [Customer Relationship Management](#) — Spring Boot, Angular, Eureka, MySQL  
-- 🎨 [React Portfolio Website](#) — React, CSS Animations, Tailwind/Bootstrap  
-- 🧩 [LeetCode Java Practice](#) — Java DSA (Strings, Lists, Arrays)
+- 🏨 [Hotel Reservation System](https://github.com/maheshmantrala/Hotel-Reservation-System) — Spring Boot, Angular, MongoDB/MySQL  
+- 🤝 [Customer Relationship Management](https://github.com/maheshmantrala/CRM-System) — Spring Boot, Angular, Eureka, MySQL  
+- 🎨 [React Portfolio Website](https://github.com/maheshmantrala/Portfolio) — React, CSS Animations, Tailwind/Bootstrap  
+- 🧩 [LeetCode Java Practice](https://github.com/maheshmantrala/LeetCode-Java) — Java DSA (Strings, Lists, Arrays)
 
 ---
 
@@ -52,6 +67,7 @@ Currently, I am expanding my skills in **cloud computing (AWS)** and modern fron
 
 ## 📫 Connect with Me  
 
-- [LinkedIn](#)  
-- [Email](#)  
+- [LinkedIn](https://www.linkedin.com/in/maheshmantrala8897)  
+- [Email](mailto:mantralamaheshkumar@gmail.com)  
+- [GitHub](https://github.com/maheshmantrala)  
 
