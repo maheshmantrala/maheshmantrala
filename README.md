@@ -88,5 +88,5 @@ Currently, I am expanding my skills in **Artificial Intelligence, Prompt Enginee
 
 ## 📫 Connect with Me  
 
-- [LinkedIn](#)  
-- [Email](#)  
+- [LinkedIn](https://www.linkedin.com/in/maheshmantrala8897)  
+- [Email](mailto:maheshkumarmantrala@gmail.com)  
