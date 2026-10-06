@@ -10,7 +10,7 @@
 
 ## 💡 About Me  
 
-I am a **Full-Stack Developer** with experience in building scalable web applications using **Java, Spring Boot, Angular, React, and SQL/MongoDB**.  
+I am a **Full-Stack Developer** with experience in building scalable web applications using **Java, Spring Boot, Angular, React,NodeJS and SQL/MongoDB**.  
 I enjoy solving complex problems, designing clean APIs, and creating responsive user interfaces.  
 Currently, I am expanding my skills in **Artificial Intelligence, Prompt Engineering, and Large Language Models (LLMs)** along with modern frontend frameworks.  
 
